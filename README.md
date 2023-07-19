@@ -1,4 +1,4 @@
-# DDP-for-NC
+# Distributed Data Parallel for Neural Collapse Experiments
 
 The concept of Neural Collapse (NC) derives from a 2020 paper called "Prevalence of neural collapse during the terminal phase of deep learning training" by Vardan Papyan et al. The authors of this paper also provided a source code to test this phenomenon with Resnet18 neural network, MNIST datatset, and MSE loss function. However, I found two problems with this code:
 
